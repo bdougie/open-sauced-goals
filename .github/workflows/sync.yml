@@ -3,6 +3,8 @@ name: Sync to Upstream
 on:
   schedule: 
     - cron: "0 2 * * *"
+  issues: 
+    type: [labeled]
 
 jobs:
   forkbacon:
