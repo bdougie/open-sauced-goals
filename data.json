@@ -1,7 +1,7 @@
 [
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 652,
+    "stargazers_count": 654,
     "open_issues_count": 4,
     "forks_count": 71
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 74040,
-    "open_issues_count": 1219,
-    "forks_count": 18305
+    "stargazers_count": 74059,
+    "open_issues_count": 1222,
+    "forks_count": 18306
   },
   {
     "full_name": "actions/first-interaction",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 64650,
+    "stargazers_count": 64655,
     "open_issues_count": 5,
-    "forks_count": 7114
+    "forks_count": 7115
   },
   {
     "full_name": "pizzaql/pizzaql",
@@ -49,26 +49,26 @@
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 18968,
+    "stargazers_count": 18970,
     "open_issues_count": 262,
     "forks_count": 1619
   },
   {
     "full_name": "gatsbyjs/gatsby",
     "stargazers_count": 47561,
-    "open_issues_count": 646,
-    "forks_count": 8967
+    "open_issues_count": 649,
+    "forks_count": 8966
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 99625,
+    "stargazers_count": 99630,
     "open_issues_count": 324,
-    "forks_count": 33992
+    "forks_count": 33995
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 19383,
-    "open_issues_count": 334,
+    "stargazers_count": 19387,
+    "open_issues_count": 335,
     "forks_count": 1372
   },
   {
@@ -98,7 +98,7 @@
   {
     "full_name": "forem/forem",
     "stargazers_count": 15318,
-    "open_issues_count": 907,
+    "open_issues_count": 906,
     "forks_count": 2568
   },
   {
@@ -140,7 +140,7 @@
   {
     "full_name": "babel/babel",
     "stargazers_count": 37628,
-    "open_issues_count": 810,
+    "open_issues_count": 809,
     "forks_count": 4522
   }
 ]
