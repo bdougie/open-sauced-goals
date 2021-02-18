@@ -1,19 +1,19 @@
 [
   {
     "full_name": "vuejs/vue-devtools",
-    "stargazers_count": 19418,
+    "stargazers_count": 19433,
     "open_issues_count": 304,
     "forks_count": 3110
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 892,
+    "stargazers_count": 897,
     "open_issues_count": 4,
-    "forks_count": 94
+    "forks_count": 101
   },
   {
     "full_name": "bdougie/git-twitch",
-    "stargazers_count": 16,
+    "stargazers_count": 18,
     "open_issues_count": 1,
     "forks_count": 9
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 76970,
-    "open_issues_count": 1219,
-    "forks_count": 19340
+    "stargazers_count": 77007,
+    "open_issues_count": 1238,
+    "forks_count": 19350
   },
   {
     "full_name": "actions/first-interaction",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "tc39/test262",
-    "stargazers_count": 1573,
+    "stargazers_count": 1574,
     "open_issues_count": 111,
-    "forks_count": 358
+    "forks_count": 357
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 68493,
-    "open_issues_count": 6,
-    "forks_count": 7551
+    "stargazers_count": 68647,
+    "open_issues_count": 10,
+    "forks_count": 7559
   },
   {
     "full_name": "pizzaql/pizzaql",
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 20437,
-    "open_issues_count": 297,
+    "stargazers_count": 20457,
+    "open_issues_count": 296,
     "forks_count": 1722
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 49044,
-    "open_issues_count": 598,
-    "forks_count": 9284
+    "stargazers_count": 49077,
+    "open_issues_count": 589,
+    "forks_count": 9295
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 105216,
+    "stargazers_count": 105316,
     "open_issues_count": 324,
-    "forks_count": 35739
+    "forks_count": 35770
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 21603,
-    "open_issues_count": 300,
-    "forks_count": 1988
+    "stargazers_count": 21630,
+    "open_issues_count": 288,
+    "forks_count": 2000
   },
   {
     "full_name": "MichaelJolley/vulcan",
@@ -85,33 +85,33 @@
   },
   {
     "full_name": "release-drafter/release-drafter",
-    "stargazers_count": 1617,
+    "stargazers_count": 1622,
     "open_issues_count": 74,
-    "forks_count": 168
+    "forks_count": 169
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 344,
+    "stargazers_count": 345,
     "open_issues_count": 25,
     "forks_count": 96
   },
   {
     "full_name": "bdougie/live",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 13,
     "forks_count": 7
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 16034,
-    "open_issues_count": 645,
-    "forks_count": 2746
+    "stargazers_count": 16046,
+    "open_issues_count": 635,
+    "forks_count": 2754
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 11750,
-    "open_issues_count": 155,
-    "forks_count": 1239
+    "stargazers_count": 11756,
+    "open_issues_count": 156,
+    "forks_count": 1240
   },
   {
     "full_name": "bdougie/open-sauced",
@@ -127,26 +127,26 @@
   },
   {
     "full_name": "nock/nock",
-    "stargazers_count": 10290,
+    "stargazers_count": 10293,
     "open_issues_count": 41,
     "forks_count": 727
   },
   {
     "full_name": "JustinBeckwith/linkinator",
-    "stargazers_count": 512,
-    "open_issues_count": 13,
-    "forks_count": 30
+    "stargazers_count": 514,
+    "open_issues_count": 14,
+    "forks_count": 32
   },
   {
     "full_name": "primer/components",
-    "stargazers_count": 1082,
-    "open_issues_count": 57,
+    "stargazers_count": 1087,
+    "open_issues_count": 52,
     "forks_count": 149
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 38407,
-    "open_issues_count": 761,
-    "forks_count": 4680
+    "stargazers_count": 38411,
+    "open_issues_count": 755,
+    "forks_count": 4688
   }
 ]
