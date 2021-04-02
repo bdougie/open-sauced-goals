@@ -1,19 +1,25 @@
 [
   {
+    "full_name": "brminnick/GitTrends",
+    "stargazers_count": 406,
+    "open_issues_count": 11,
+    "forks_count": 83
+  },
+  {
     "full_name": "vuejs/vue-devtools",
-    "stargazers_count": 19705,
-    "open_issues_count": 318,
-    "forks_count": 3158
+    "stargazers_count": 19715,
+    "open_issues_count": 320,
+    "forks_count": 3162
   },
   {
     "full_name": "actions/github-script",
     "stargazers_count": 993,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 119
   },
   {
     "full_name": "bdougie/git-twitch",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 3,
     "forks_count": 17
   },
@@ -25,27 +31,27 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 78014,
-    "open_issues_count": 1298,
-    "forks_count": 19725
+    "stargazers_count": 78062,
+    "open_issues_count": 1309,
+    "forks_count": 19738
   },
   {
     "full_name": "actions/first-interaction",
-    "stargazers_count": 90,
+    "stargazers_count": 89,
     "open_issues_count": 23,
     "forks_count": 51
   },
   {
     "full_name": "tc39/test262",
-    "stargazers_count": 1598,
+    "stargazers_count": 1599,
     "open_issues_count": 117,
     "forks_count": 363
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 70136,
-    "open_issues_count": 11,
-    "forks_count": 7771
+    "stargazers_count": 70239,
+    "open_issues_count": 1,
+    "forks_count": 7787
   },
   {
     "full_name": "pizzaql/pizzaql",
@@ -55,27 +61,27 @@
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 21000,
+    "stargazers_count": 21032,
     "open_issues_count": 311,
-    "forks_count": 1769
+    "forks_count": 1771
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 49646,
-    "open_issues_count": 639,
-    "forks_count": 9428
+    "stargazers_count": 49673,
+    "open_issues_count": 647,
+    "forks_count": 9436
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 108236,
+    "stargazers_count": 108345,
     "open_issues_count": 324,
-    "forks_count": 36373
+    "forks_count": 36406
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 22269,
+    "stargazers_count": 22282,
     "open_issues_count": 326,
-    "forks_count": 2144
+    "forks_count": 2152
   },
   {
     "full_name": "MichaelJolley/vulcan",
@@ -85,31 +91,31 @@
   },
   {
     "full_name": "release-drafter/release-drafter",
-    "stargazers_count": 1712,
-    "open_issues_count": 89,
+    "stargazers_count": 1714,
+    "open_issues_count": 88,
     "forks_count": 183
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 380,
-    "open_issues_count": 31,
-    "forks_count": 106
+    "stargazers_count": 385,
+    "open_issues_count": 35,
+    "forks_count": 109
   },
   {
     "full_name": "bdougie/live",
     "stargazers_count": 7,
-    "open_issues_count": 13,
+    "open_issues_count": 15,
     "forks_count": 9
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 16254,
+    "stargazers_count": 16268,
     "open_issues_count": 439,
     "forks_count": 2805
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 11932,
+    "stargazers_count": 11944,
     "open_issues_count": 166,
     "forks_count": 1262
   },
@@ -127,26 +133,26 @@
   },
   {
     "full_name": "nock/nock",
-    "stargazers_count": 10425,
-    "open_issues_count": 35,
+    "stargazers_count": 10430,
+    "open_issues_count": 40,
     "forks_count": 729
   },
   {
     "full_name": "JustinBeckwith/linkinator",
     "stargazers_count": 525,
     "open_issues_count": 15,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "primer/components",
-    "stargazers_count": 1146,
-    "open_issues_count": 62,
+    "stargazers_count": 1148,
+    "open_issues_count": 60,
     "forks_count": 163
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 38729,
-    "open_issues_count": 726,
-    "forks_count": 4789
+    "stargazers_count": 38743,
+    "open_issues_count": 733,
+    "forks_count": 4793
   }
 ]
