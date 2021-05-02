@@ -37,7 +37,8 @@ jobs:
                   full_name: data.full_name,
                   stargazers_count: data.stargazers_count,
                   open_issues_count: data.open_issues_count,
-                  forks_count: data.forks_count
+                  forks_count: data.forks_count,
+                  issue_number: issue.number
                 }
               }),
             );
