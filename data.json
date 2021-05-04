@@ -14,13 +14,6 @@
     "issue_number": 46
   },
   {
-    "full_name": "vuejs/vue-devtools",
-    "stargazers_count": 19973,
-    "open_issues_count": 331,
-    "forks_count": 3204,
-    "issue_number": 45
-  },
-  {
     "full_name": "actions/github-script",
     "stargazers_count": 1055,
     "open_issues_count": 5,
@@ -71,7 +64,7 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 111128,
+    "stargazers_count": 111130,
     "open_issues_count": 324,
     "forks_count": 36974,
     "issue_number": 29
@@ -93,7 +86,7 @@
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 421,
-    "open_issues_count": 38,
+    "open_issues_count": 39,
     "forks_count": 118,
     "issue_number": 22
   },
