@@ -1,5 +1,12 @@
 [
   {
+    "full_name": "FiniteSingularity/tau",
+    "stargazers_count": 22,
+    "open_issues_count": 10,
+    "forks_count": 9,
+    "issue_number": 47
+  },
+  {
     "full_name": "brminnick/GitTrends",
     "stargazers_count": 424,
     "open_issues_count": 11,
@@ -8,14 +15,14 @@
   },
   {
     "full_name": "vuejs/vue-devtools",
-    "stargazers_count": 19969,
+    "stargazers_count": 19973,
     "open_issues_count": 331,
-    "forks_count": 3203,
+    "forks_count": 3204,
     "issue_number": 45
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 1053,
+    "stargazers_count": 1055,
     "open_issues_count": 5,
     "forks_count": 123,
     "issue_number": 44
@@ -36,9 +43,9 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 78789,
-    "open_issues_count": 1294,
-    "forks_count": 20030,
+    "stargazers_count": 78801,
+    "open_issues_count": 1293,
+    "forks_count": 20039,
     "issue_number": 39
   },
   {
@@ -51,15 +58,15 @@
   {
     "full_name": "tc39/test262",
     "stargazers_count": 1613,
-    "open_issues_count": 120,
-    "forks_count": 369,
+    "open_issues_count": 119,
+    "forks_count": 370,
     "issue_number": 36
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 73907,
-    "open_issues_count": 2,
-    "forks_count": 8082,
+    "stargazers_count": 73941,
+    "open_issues_count": 0,
+    "forks_count": 8092,
     "issue_number": 34
   },
   {
@@ -71,30 +78,30 @@
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 21376,
-    "open_issues_count": 304,
-    "forks_count": 1800,
+    "stargazers_count": 21381,
+    "open_issues_count": 305,
+    "forks_count": 1801,
     "issue_number": 32
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 50133,
-    "open_issues_count": 577,
-    "forks_count": 9523,
+    "stargazers_count": 50139,
+    "open_issues_count": 554,
+    "forks_count": 9525,
     "issue_number": 31
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 110981,
+    "stargazers_count": 111112,
     "open_issues_count": 324,
-    "forks_count": 36956,
+    "forks_count": 36974,
     "issue_number": 29
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 23229,
-    "open_issues_count": 338,
-    "forks_count": 2277,
+    "stargazers_count": 23235,
+    "open_issues_count": 339,
+    "forks_count": 2279,
     "issue_number": 26
   },
   {
@@ -106,16 +113,16 @@
   },
   {
     "full_name": "release-drafter/release-drafter",
-    "stargazers_count": 1771,
+    "stargazers_count": 1773,
     "open_issues_count": 100,
     "forks_count": 186,
     "issue_number": 23
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 420,
-    "open_issues_count": 37,
-    "forks_count": 117,
+    "stargazers_count": 421,
+    "open_issues_count": 38,
+    "forks_count": 118,
     "issue_number": 22
   },
   {
@@ -127,14 +134,14 @@
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 16408,
-    "open_issues_count": 432,
-    "forks_count": 2830,
+    "stargazers_count": 16412,
+    "open_issues_count": 434,
+    "forks_count": 2831,
     "issue_number": 18
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 12068,
+    "stargazers_count": 12075,
     "open_issues_count": 162,
     "forks_count": 1278,
     "issue_number": 17
@@ -155,7 +162,7 @@
   },
   {
     "full_name": "nock/nock",
-    "stargazers_count": 10512,
+    "stargazers_count": 10516,
     "open_issues_count": 44,
     "forks_count": 730,
     "issue_number": 12
@@ -169,16 +176,16 @@
   },
   {
     "full_name": "primer/components",
-    "stargazers_count": 1177,
+    "stargazers_count": 1178,
     "open_issues_count": 63,
     "forks_count": 170,
     "issue_number": 7
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 38941,
-    "open_issues_count": 742,
-    "forks_count": 4825,
+    "stargazers_count": 38944,
+    "open_issues_count": 746,
+    "forks_count": 4826,
     "issue_number": 1
   }
 ]
