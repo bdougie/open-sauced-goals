@@ -36,9 +36,9 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 79027,
-    "open_issues_count": 1327,
-    "forks_count": 20203,
+    "stargazers_count": 79049,
+    "open_issues_count": 1322,
+    "forks_count": 20209,
     "issue_number": 39
   },
   {
@@ -57,29 +57,29 @@
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 50236,
+    "stargazers_count": 50240,
     "open_issues_count": 494,
-    "forks_count": 9555,
+    "forks_count": 9557,
     "issue_number": 31
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 111690,
+    "stargazers_count": 111735,
     "open_issues_count": 324,
-    "forks_count": 37134,
+    "forks_count": 37146,
     "issue_number": 29
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 23368,
-    "open_issues_count": 350,
+    "stargazers_count": 23388,
+    "open_issues_count": 351,
     "forks_count": 2327,
     "issue_number": 26
   },
   {
     "full_name": "release-drafter/release-drafter",
-    "stargazers_count": 1789,
-    "open_issues_count": 106,
+    "stargazers_count": 1790,
+    "open_issues_count": 107,
     "forks_count": 189,
     "issue_number": 23
   },
@@ -92,14 +92,14 @@
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 16704,
-    "open_issues_count": 444,
-    "forks_count": 2857,
+    "stargazers_count": 16711,
+    "open_issues_count": 445,
+    "forks_count": 2859,
     "issue_number": 18
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 12125,
+    "stargazers_count": 12126,
     "open_issues_count": 170,
     "forks_count": 1288,
     "issue_number": 17
@@ -134,16 +134,16 @@
   },
   {
     "full_name": "primer/components",
-    "stargazers_count": 1194,
-    "open_issues_count": 69,
+    "stargazers_count": 1196,
+    "open_issues_count": 70,
     "forks_count": 174,
     "issue_number": 7
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 39053,
+    "stargazers_count": 39054,
     "open_issues_count": 741,
-    "forks_count": 4847,
+    "forks_count": 4846,
     "issue_number": 1
   }
 ]
