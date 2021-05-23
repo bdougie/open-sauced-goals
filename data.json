@@ -1,12 +1,5 @@
 [
   {
-    "full_name": "kjaymiller/Bunch_Alfred",
-    "stargazers_count": 40,
-    "open_issues_count": 1,
-    "forks_count": 4,
-    "issue_number": 48
-  },
-  {
     "full_name": "FiniteSingularity/tau",
     "stargazers_count": 26,
     "open_issues_count": 17,
@@ -22,7 +15,7 @@
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 1089,
+    "stargazers_count": 1090,
     "open_issues_count": 8,
     "forks_count": 124,
     "issue_number": 44
@@ -43,9 +36,9 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 79214,
+    "stargazers_count": 79218,
     "open_issues_count": 1326,
-    "forks_count": 20271,
+    "forks_count": 20272,
     "issue_number": 39
   },
   {
@@ -71,9 +64,9 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 112232,
+    "stargazers_count": 112238,
     "open_issues_count": 324,
-    "forks_count": 37237,
+    "forks_count": 37238,
     "issue_number": 29
   },
   {
@@ -99,7 +92,7 @@
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 16746,
+    "stargazers_count": 16747,
     "open_issues_count": 446,
     "forks_count": 2866,
     "issue_number": 18
