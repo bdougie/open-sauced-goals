@@ -7,53 +7,11 @@
     "issue_number": 39
   },
   {
-    "full_name": "pizzaql/pizzaql",
-    "stargazers_count": 641,
-    "open_issues_count": 0,
-    "forks_count": 62,
-    "issue_number": 33
-  },
-  {
-    "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 50346,
-    "open_issues_count": 491,
-    "forks_count": 9593,
-    "issue_number": 31
-  },
-  {
-    "full_name": "torvalds/linux",
-    "stargazers_count": 112409,
-    "open_issues_count": 324,
-    "forks_count": 37279,
-    "issue_number": 29
-  },
-  {
     "full_name": "cli/cli",
     "stargazers_count": 23530,
     "open_issues_count": 347,
     "forks_count": 2367,
     "issue_number": 26
-  },
-  {
-    "full_name": "release-drafter/release-drafter",
-    "stargazers_count": 1812,
-    "open_issues_count": 111,
-    "forks_count": 191,
-    "issue_number": 23
-  },
-  {
-    "full_name": "forem/forem",
-    "stargazers_count": 16764,
-    "open_issues_count": 442,
-    "forks_count": 2872,
-    "issue_number": 18
-  },
-  {
-    "full_name": "bdougie/open-sauced",
-    "stargazers_count": 0,
-    "open_issues_count": 0,
-    "forks_count": 0,
-    "issue_number": 16
   },
   {
     "full_name": "OneGraph/onegraph-client",
@@ -63,31 +21,10 @@
     "issue_number": 14
   },
   {
-    "full_name": "nock/nock",
-    "stargazers_count": 10566,
-    "open_issues_count": 48,
-    "forks_count": 730,
-    "issue_number": 12
-  },
-  {
-    "full_name": "JustinBeckwith/linkinator",
-    "stargazers_count": 597,
-    "open_issues_count": 19,
-    "forks_count": 36,
-    "issue_number": 11
-  },
-  {
     "full_name": "primer/components",
     "stargazers_count": 1209,
     "open_issues_count": 70,
     "forks_count": 174,
     "issue_number": 7
-  },
-  {
-    "full_name": "babel/babel",
-    "stargazers_count": 39138,
-    "open_issues_count": 750,
-    "forks_count": 4861,
-    "issue_number": 1
   }
 ]
