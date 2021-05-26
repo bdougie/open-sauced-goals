@@ -1,16 +1,30 @@
 [
   {
+    "full_name": "gr2m/boop-gregors-nose-test",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 2,
+    "issue_number": 311
+  },
+  {
+    "full_name": "open-sauced/slaybot",
+    "stargazers_count": 15,
+    "open_issues_count": 8,
+    "forks_count": 1,
+    "issue_number": 256
+  },
+  {
     "full_name": "nodejs/node",
-    "stargazers_count": 79285,
-    "open_issues_count": 1328,
-    "forks_count": 20299,
+    "stargazers_count": 79288,
+    "open_issues_count": 1326,
+    "forks_count": 20297,
     "issue_number": 39
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 23533,
-    "open_issues_count": 342,
-    "forks_count": 2368,
+    "stargazers_count": 23534,
+    "open_issues_count": 340,
+    "forks_count": 2370,
     "issue_number": 26
   },
   {
