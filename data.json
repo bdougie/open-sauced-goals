@@ -1,5 +1,12 @@
 [
   {
+    "full_name": "zernonia/supabase-realtime-nextconf-clone",
+    "stargazers_count": 19,
+    "open_issues_count": 0,
+    "forks_count": 0,
+    "issue_number": 314
+  },
+  {
     "full_name": "Team-TAU/tau",
     "stargazers_count": 45,
     "open_issues_count": 16,
@@ -30,8 +37,8 @@
   {
     "full_name": "nodejs/node",
     "stargazers_count": 80440,
-    "open_issues_count": 1413,
-    "forks_count": 20732,
+    "open_issues_count": 1412,
+    "forks_count": 20731,
     "issue_number": 39
   },
   {
