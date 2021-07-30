@@ -1,23 +1,30 @@
 [
   {
+    "full_name": "octoherd/cli",
+    "stargazers_count": 73,
+    "open_issues_count": 10,
+    "forks_count": 2,
+    "issue_number": 315
+  },
+  {
     "full_name": "zernonia/supabase-realtime-nextconf-clone",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 0,
-    "forks_count": 0,
+    "forks_count": 1,
     "issue_number": 314
   },
   {
     "full_name": "Team-TAU/tau",
-    "stargazers_count": 45,
-    "open_issues_count": 16,
+    "stargazers_count": 47,
+    "open_issues_count": 17,
     "forks_count": 17,
     "issue_number": 313
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 137,
-    "open_issues_count": 24,
-    "forks_count": 11,
+    "stargazers_count": 227,
+    "open_issues_count": 20,
+    "forks_count": 15,
     "issue_number": 312
   },
   {
@@ -36,16 +43,16 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 80440,
-    "open_issues_count": 1412,
-    "forks_count": 20731,
+    "stargazers_count": 80702,
+    "open_issues_count": 1437,
+    "forks_count": 20865,
     "issue_number": 39
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 24050,
-    "open_issues_count": 380,
-    "forks_count": 2521,
+    "stargazers_count": 24187,
+    "open_issues_count": 378,
+    "forks_count": 2575,
     "issue_number": 26
   },
   {
@@ -57,9 +64,9 @@
   },
   {
     "full_name": "primer/components",
-    "stargazers_count": 1252,
-    "open_issues_count": 71,
-    "forks_count": 179,
+    "stargazers_count": 1266,
+    "open_issues_count": 65,
+    "forks_count": 181,
     "issue_number": 7
   }
 ]
