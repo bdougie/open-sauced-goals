@@ -1,7 +1,7 @@
 [
   {
     "full_name": "octoherd/cli",
-    "stargazers_count": 72,
+    "stargazers_count": 74,
     "open_issues_count": 10,
     "forks_count": 2,
     "issue_number": 315
@@ -43,16 +43,16 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 80728,
-    "open_issues_count": 1441,
-    "forks_count": 20868,
+    "stargazers_count": 80737,
+    "open_issues_count": 1444,
+    "forks_count": 20873,
     "issue_number": 39
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 24197,
+    "stargazers_count": 24203,
     "open_issues_count": 381,
-    "forks_count": 2580,
+    "forks_count": 2581,
     "issue_number": 26
   },
   {
@@ -64,7 +64,7 @@
   },
   {
     "full_name": "primer/components",
-    "stargazers_count": 1269,
+    "stargazers_count": 1270,
     "open_issues_count": 65,
     "forks_count": 181,
     "issue_number": 7
