@@ -22,8 +22,8 @@
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 227,
-    "open_issues_count": 22,
+    "stargazers_count": 228,
+    "open_issues_count": 20,
     "forks_count": 16,
     "issue_number": 312
   },
@@ -43,16 +43,16 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 80702,
-    "open_issues_count": 1437,
-    "forks_count": 20865,
+    "stargazers_count": 80728,
+    "open_issues_count": 1441,
+    "forks_count": 20868,
     "issue_number": 39
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 24187,
-    "open_issues_count": 379,
-    "forks_count": 2576,
+    "stargazers_count": 24197,
+    "open_issues_count": 381,
+    "forks_count": 2580,
     "issue_number": 26
   },
   {
@@ -64,7 +64,7 @@
   },
   {
     "full_name": "primer/components",
-    "stargazers_count": 1266,
+    "stargazers_count": 1269,
     "open_issues_count": 65,
     "forks_count": 181,
     "issue_number": 7
