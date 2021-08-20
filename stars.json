@@ -1,13 +1,13 @@
 [
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 6700,
-    "open_issues_count": 36,
+    "stargazers_count": 6724,
+    "open_issues_count": 37,
     "forks_count": 187
   },
   {
     "full_name": "muxinc/stream.new",
-    "stargazers_count": 189,
+    "stargazers_count": 190,
     "open_issues_count": 9,
     "forks_count": 23
   },
@@ -21,7 +21,7 @@
     "full_name": "BattlesnakeOfficial/starter-snake-javascript",
     "stargazers_count": 16,
     "open_issues_count": 0,
-    "forks_count": 92
+    "forks_count": 93
   },
   {
     "full_name": "hughrawlinson/battlesnake",
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "altair-graphql/altair",
-    "stargazers_count": 3582,
-    "open_issues_count": 30,
+    "stargazers_count": 3585,
+    "open_issues_count": 32,
     "forks_count": 148
   },
   {
@@ -56,7 +56,7 @@
   {
     "full_name": "kkemple/theworst.dev",
     "stargazers_count": 18,
-    "open_issues_count": 25,
+    "open_issues_count": 23,
     "forks_count": 3
   },
   {
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "subeeshvasu/Awesome-Deblurring",
-    "stargazers_count": 996,
+    "stargazers_count": 997,
     "open_issues_count": 0,
     "forks_count": 191
   },
   {
     "full_name": "doczjs/docz",
-    "stargazers_count": 21594,
-    "open_issues_count": 84,
-    "forks_count": 1341
+    "stargazers_count": 21595,
+    "open_issues_count": 85,
+    "forks_count": 1345
   },
   {
     "full_name": "dabit3/supabase-next.js",
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 6211,
-    "open_issues_count": 204,
-    "forks_count": 232
+    "stargazers_count": 6252,
+    "open_issues_count": 208,
+    "forks_count": 238
   },
   {
     "full_name": "reactwg/react-18",
-    "stargazers_count": 2830,
+    "stargazers_count": 2858,
     "open_issues_count": 0,
-    "forks_count": 42
+    "forks_count": 45
   },
   {
     "full_name": "kjaymiller/hbcu-list",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 254,
-    "open_issues_count": 29,
-    "forks_count": 18
+    "stargazers_count": 266,
+    "open_issues_count": 27,
+    "forks_count": 19
   },
   {
     "full_name": "RamseyInHouse/feedback-component",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 4768,
-    "open_issues_count": 46,
-    "forks_count": 141
+    "stargazers_count": 4796,
+    "open_issues_count": 48,
+    "forks_count": 142
   },
   {
     "full_name": "cassiozen/useStateMachine",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "obs-websocket-community-projects/obs-websocket-js",
-    "stargazers_count": 385,
+    "stargazers_count": 386,
     "open_issues_count": 40,
     "forks_count": 70
   }
