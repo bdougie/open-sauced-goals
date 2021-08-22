@@ -1,8 +1,8 @@
 [
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 6724,
-    "open_issues_count": 36,
+    "stargazers_count": 6731,
+    "open_issues_count": 32,
     "forks_count": 187
   },
   {
@@ -44,7 +44,7 @@
   {
     "full_name": "altair-graphql/altair",
     "stargazers_count": 3585,
-    "open_issues_count": 32,
+    "open_issues_count": 31,
     "forks_count": 148
   },
   {
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "subeeshvasu/Awesome-Deblurring",
-    "stargazers_count": 997,
+    "stargazers_count": 998,
     "open_issues_count": 0,
-    "forks_count": 191
+    "forks_count": 192
   },
   {
     "full_name": "doczjs/docz",
-    "stargazers_count": 21595,
+    "stargazers_count": 21599,
     "open_issues_count": 85,
-    "forks_count": 1345
+    "forks_count": 1344
   },
   {
     "full_name": "dabit3/supabase-next.js",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "mscoutermarsh/mscoutermarsh",
-    "stargazers_count": 189,
+    "stargazers_count": 190,
     "open_issues_count": 4,
     "forks_count": 23
   },
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 6256,
-    "open_issues_count": 210,
-    "forks_count": 239
+    "stargazers_count": 6273,
+    "open_issues_count": 214,
+    "forks_count": 240
   },
   {
     "full_name": "reactwg/react-18",
-    "stargazers_count": 2859,
+    "stargazers_count": 2867,
     "open_issues_count": 0,
     "forks_count": 45
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 266,
+    "stargazers_count": 267,
     "open_issues_count": 26,
     "forks_count": 19
   },
@@ -145,13 +145,13 @@
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 4796,
+    "stargazers_count": 4797,
     "open_issues_count": 49,
-    "forks_count": 142
+    "forks_count": 144
   },
   {
     "full_name": "cassiozen/useStateMachine",
-    "stargazers_count": 2022,
+    "stargazers_count": 2023,
     "open_issues_count": 18,
     "forks_count": 29
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "obs-websocket-community-projects/obs-websocket-js",
-    "stargazers_count": 386,
+    "stargazers_count": 385,
     "open_issues_count": 40,
     "forks_count": 70
   }
