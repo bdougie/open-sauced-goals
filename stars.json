@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "open-sauced/semantic-release-conventional-config",
+    "stargazers_count": 4,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
     "full_name": "mswjs/msw",
-    "stargazers_count": 6731,
+    "stargazers_count": 6748,
     "open_issues_count": 32,
     "forks_count": 187
   },
@@ -37,13 +43,13 @@
   },
   {
     "full_name": "octokit/rest.js",
-    "stargazers_count": 94,
+    "stargazers_count": 95,
     "open_issues_count": 18,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "altair-graphql/altair",
-    "stargazers_count": 3585,
+    "stargazers_count": 3589,
     "open_issues_count": 31,
     "forks_count": 148
   },
@@ -67,13 +73,13 @@
   },
   {
     "full_name": "subeeshvasu/Awesome-Deblurring",
-    "stargazers_count": 998,
+    "stargazers_count": 1000,
     "open_issues_count": 0,
     "forks_count": 192
   },
   {
     "full_name": "doczjs/docz",
-    "stargazers_count": 21599,
+    "stargazers_count": 21607,
     "open_issues_count": 85,
     "forks_count": 1344
   },
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 660,
+    "stargazers_count": 664,
     "open_issues_count": 28,
     "forks_count": 141
   },
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 6273,
-    "open_issues_count": 214,
-    "forks_count": 240
+    "stargazers_count": 6324,
+    "open_issues_count": 216,
+    "forks_count": 243
   },
   {
     "full_name": "reactwg/react-18",
-    "stargazers_count": 2867,
+    "stargazers_count": 2883,
     "open_issues_count": 0,
-    "forks_count": 45
+    "forks_count": 47
   },
   {
     "full_name": "kjaymiller/hbcu-list",
@@ -127,8 +133,8 @@
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 267,
-    "open_issues_count": 26,
+    "stargazers_count": 274,
+    "open_issues_count": 19,
     "forks_count": 19
   },
   {
@@ -145,13 +151,13 @@
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 4797,
+    "stargazers_count": 4816,
     "open_issues_count": 49,
-    "forks_count": 144
+    "forks_count": 145
   },
   {
     "full_name": "cassiozen/useStateMachine",
-    "stargazers_count": 2023,
+    "stargazers_count": 2024,
     "open_issues_count": 18,
     "forks_count": 29
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 17,
     "open_issues_count": 8,
     "forks_count": 2
-  },
-  {
-    "full_name": "obs-websocket-community-projects/obs-websocket-js",
-    "stargazers_count": 385,
-    "open_issues_count": 40,
-    "forks_count": 70
   }
 ]
