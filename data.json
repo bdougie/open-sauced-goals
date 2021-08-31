@@ -1,19 +1,19 @@
 [
   {
     "full_name": "cloudflare/doom-wasm",
-    "stargazers_count": 110,
+    "stargazers_count": 111,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "octoherd/cli",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 10,
     "forks_count": 2
   },
   {
     "full_name": "zernonia/supabase-realtime-nextconf-clone",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 288,
-    "open_issues_count": 28,
+    "stargazers_count": 287,
+    "open_issues_count": 32,
     "forks_count": 20
   },
   {
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 81432,
-    "open_issues_count": 1477,
-    "forks_count": 21110
+    "stargazers_count": 81468,
+    "open_issues_count": 1482,
+    "forks_count": 21131
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 25007,
-    "open_issues_count": 377,
-    "forks_count": 2680
+    "stargazers_count": 25146,
+    "open_issues_count": 375,
+    "forks_count": 2685
   },
   {
     "full_name": "OneGraph/onegraph-client",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1298,
+    "stargazers_count": 1303,
     "open_issues_count": 67,
     "forks_count": 188
   }
