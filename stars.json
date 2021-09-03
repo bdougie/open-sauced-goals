@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "cloudflare/durable-objects-template",
+    "stargazers_count": 12,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
     "full_name": "open-sauced/check-engines",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 436,
+    "stargazers_count": 445,
     "open_issues_count": 18,
     "forks_count": 50
   },
@@ -19,13 +25,13 @@
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 6813,
-    "open_issues_count": 34,
-    "forks_count": 190
+    "stargazers_count": 6848,
+    "open_issues_count": 33,
+    "forks_count": 192
   },
   {
     "full_name": "muxinc/stream.new",
-    "stargazers_count": 191,
+    "stargazers_count": 192,
     "open_issues_count": 9,
     "forks_count": 23
   },
@@ -55,15 +61,15 @@
   },
   {
     "full_name": "octokit/rest.js",
-    "stargazers_count": 97,
+    "stargazers_count": 98,
     "open_issues_count": 18,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "altair-graphql/altair",
-    "stargazers_count": 3608,
-    "open_issues_count": 36,
-    "forks_count": 150
+    "stargazers_count": 3616,
+    "open_issues_count": 38,
+    "forks_count": 151
   },
   {
     "full_name": "zernonia/supabase-realtime-nextconf-clone",
@@ -74,30 +80,30 @@
   {
     "full_name": "kkemple/theworst.dev",
     "stargazers_count": 18,
-    "open_issues_count": 23,
+    "open_issues_count": 25,
     "forks_count": 3
   },
   {
     "full_name": "kkemple/apollo-graphql-stream-scenes",
     "stargazers_count": 20,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "subeeshvasu/Awesome-Deblurring",
-    "stargazers_count": 1019,
+    "stargazers_count": 1025,
     "open_issues_count": 1,
-    "forks_count": 193
+    "forks_count": 195
   },
   {
     "full_name": "doczjs/docz",
-    "stargazers_count": 21636,
+    "stargazers_count": 21650,
     "open_issues_count": 84,
     "forks_count": 1348
   },
   {
     "full_name": "dabit3/supabase-next.js",
-    "stargazers_count": 70,
+    "stargazers_count": 71,
     "open_issues_count": 1,
     "forks_count": 11
   },
@@ -109,7 +115,7 @@
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 668,
+    "stargazers_count": 670,
     "open_issues_count": 29,
     "forks_count": 143
   },
@@ -127,13 +133,13 @@
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 6437,
-    "open_issues_count": 183,
+    "stargazers_count": 6454,
+    "open_issues_count": 182,
     "forks_count": 259
   },
   {
     "full_name": "reactwg/react-18",
-    "stargazers_count": 2937,
+    "stargazers_count": 2951,
     "open_issues_count": 0,
     "forks_count": 50
   },
@@ -145,8 +151,8 @@
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 290,
-    "open_issues_count": 33,
+    "stargazers_count": 293,
+    "open_issues_count": 34,
     "forks_count": 20
   },
   {
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 4871,
+    "stargazers_count": 4883,
     "open_issues_count": 44,
-    "forks_count": 145
+    "forks_count": 146
   },
   {
     "full_name": "cassiozen/useStateMachine",
-    "stargazers_count": 2029,
+    "stargazers_count": 2030,
     "open_issues_count": 18,
     "forks_count": 29
-  },
-  {
-    "full_name": "mrcartoonster/website",
-    "stargazers_count": 3,
-    "open_issues_count": 1,
-    "forks_count": 0
   }
 ]
