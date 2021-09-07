@@ -13,9 +13,9 @@
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 453,
-    "open_issues_count": 18,
-    "forks_count": 50
+    "stargazers_count": 464,
+    "open_issues_count": 19,
+    "forks_count": 51
   },
   {
     "full_name": "open-sauced/semantic-release-conventional-config",
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 6854,
-    "open_issues_count": 33,
+    "stargazers_count": 6873,
+    "open_issues_count": 30,
     "forks_count": 192
   },
   {
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "octokit/rest.js",
-    "stargazers_count": 98,
+    "stargazers_count": 99,
     "open_issues_count": 18,
     "forks_count": 11
   },
   {
     "full_name": "altair-graphql/altair",
-    "stargazers_count": 3620,
+    "stargazers_count": 3626,
     "open_issues_count": 39,
     "forks_count": 151
   },
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "subeeshvasu/Awesome-Deblurring",
-    "stargazers_count": 1028,
-    "open_issues_count": 1,
-    "forks_count": 195
+    "stargazers_count": 1029,
+    "open_issues_count": 0,
+    "forks_count": 196
   },
   {
     "full_name": "doczjs/docz",
-    "stargazers_count": 21656,
+    "stargazers_count": 21666,
     "open_issues_count": 84,
-    "forks_count": 1349
+    "forks_count": 1351
   },
   {
     "full_name": "dabit3/supabase-next.js",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 672,
+    "stargazers_count": 674,
     "open_issues_count": 29,
-    "forks_count": 143
+    "forks_count": 144
   },
   {
     "full_name": "mscoutermarsh/mscoutermarsh",
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 6469,
-    "open_issues_count": 183,
-    "forks_count": 260
+    "stargazers_count": 6499,
+    "open_issues_count": 193,
+    "forks_count": 264
   },
   {
     "full_name": "reactwg/react-18",
-    "stargazers_count": 2959,
+    "stargazers_count": 2965,
     "open_issues_count": 0,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "kjaymiller/hbcu-list",
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 293,
-    "open_issues_count": 32,
+    "stargazers_count": 296,
+    "open_issues_count": 27,
     "forks_count": 20
   },
   {
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 4886,
+    "stargazers_count": 4896,
     "open_issues_count": 44,
     "forks_count": 146
   },
   {
     "full_name": "cassiozen/useStateMachine",
-    "stargazers_count": 2030,
+    "stargazers_count": 2034,
     "open_issues_count": 18,
     "forks_count": 29
   }
