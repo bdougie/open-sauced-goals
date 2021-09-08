@@ -15,7 +15,7 @@
     "full_name": "supabase/supabase-js",
     "stargazers_count": 464,
     "open_issues_count": 19,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "open-sauced/semantic-release-conventional-config",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 6873,
-    "open_issues_count": 30,
-    "forks_count": 192
+    "stargazers_count": 6880,
+    "open_issues_count": 32,
+    "forks_count": 193
   },
   {
     "full_name": "muxinc/stream.new",
-    "stargazers_count": 192,
+    "stargazers_count": 193,
     "open_issues_count": 9,
     "forks_count": 23
   },
@@ -62,12 +62,12 @@
   {
     "full_name": "octokit/rest.js",
     "stargazers_count": 99,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 11
   },
   {
     "full_name": "altair-graphql/altair",
-    "stargazers_count": 3626,
+    "stargazers_count": 3629,
     "open_issues_count": 39,
     "forks_count": 151
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "kkemple/apollo-graphql-stream-scenes",
-    "stargazers_count": 20,
+    "stargazers_count": 19,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "doczjs/docz",
-    "stargazers_count": 21666,
+    "stargazers_count": 21669,
     "open_issues_count": 84,
     "forks_count": 1351
   },
@@ -123,7 +123,7 @@
     "full_name": "mscoutermarsh/mscoutermarsh",
     "stargazers_count": 191,
     "open_issues_count": 4,
-    "forks_count": 24
+    "forks_count": 26
   },
   {
     "full_name": "Mariatta/github-app-tutorial",
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 6499,
-    "open_issues_count": 193,
+    "stargazers_count": 6506,
+    "open_issues_count": 191,
     "forks_count": 264
   },
   {
     "full_name": "reactwg/react-18",
-    "stargazers_count": 2965,
+    "stargazers_count": 2971,
     "open_issues_count": 0,
     "forks_count": 51
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 296,
+    "stargazers_count": 297,
     "open_issues_count": 27,
     "forks_count": 20
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 4896,
+    "stargazers_count": 4899,
     "open_issues_count": 44,
     "forks_count": 146
   },
   {
     "full_name": "cassiozen/useStateMachine",
-    "stargazers_count": 2034,
+    "stargazers_count": 2035,
     "open_issues_count": 18,
     "forks_count": 29
   }
