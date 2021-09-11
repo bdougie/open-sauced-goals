@@ -43,15 +43,15 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 81641,
-    "open_issues_count": 1498,
-    "forks_count": 21220
+    "stargazers_count": 81668,
+    "open_issues_count": 1507,
+    "forks_count": 21232
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 25290,
-    "open_issues_count": 385,
-    "forks_count": 2737
+    "stargazers_count": 25294,
+    "open_issues_count": 383,
+    "forks_count": 2739
   },
   {
     "full_name": "OneGraph/onegraph-client",
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1312,
-    "open_issues_count": 49,
-    "forks_count": 190
+    "stargazers_count": 1313,
+    "open_issues_count": 47,
+    "forks_count": 192
   }
 ]
