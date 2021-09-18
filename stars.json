@@ -1,9 +1,9 @@
 [
   {
     "full_name": "davidteather/TikTok-Api",
-    "stargazers_count": 1377,
-    "open_issues_count": 71,
-    "forks_count": 385
+    "stargazers_count": 1385,
+    "open_issues_count": 66,
+    "forks_count": 386
   },
   {
     "full_name": "blackgirlbytes/git-emojis",
@@ -13,19 +13,19 @@
   },
   {
     "full_name": "Shopify/polaris-react",
-    "stargazers_count": 4251,
-    "open_issues_count": 302,
+    "stargazers_count": 4253,
+    "open_issues_count": 303,
     "forks_count": 827
   },
   {
     "full_name": "hay-kot/mealie",
-    "stargazers_count": 893,
+    "stargazers_count": 896,
     "open_issues_count": 52,
-    "forks_count": 99
+    "forks_count": 100
   },
   {
     "full_name": "slinkity/slinkity",
-    "stargazers_count": 55,
+    "stargazers_count": 56,
     "open_issues_count": 5,
     "forks_count": 4
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 482,
+    "stargazers_count": 484,
     "open_issues_count": 26,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "open-sauced/semantic-release-conventional-config",
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 6952,
-    "open_issues_count": 31,
+    "stargazers_count": 6958,
+    "open_issues_count": 30,
     "forks_count": 195
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "cloudflare/doom-wasm",
-    "stargazers_count": 112,
+    "stargazers_count": 113,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -98,7 +98,7 @@
   {
     "full_name": "altair-graphql/altair",
     "stargazers_count": 3641,
-    "open_issues_count": 46,
+    "open_issues_count": 44,
     "forks_count": 153
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "doczjs/docz",
-    "stargazers_count": 21698,
+    "stargazers_count": 21703,
     "open_issues_count": 87,
     "forks_count": 1354
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 681,
+    "stargazers_count": 682,
     "open_issues_count": 29,
     "forks_count": 146
   },
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 6856,
-    "open_issues_count": 199,
-    "forks_count": 279
+    "stargazers_count": 6911,
+    "open_issues_count": 197,
+    "forks_count": 277
   },
   {
     "full_name": "reactwg/react-18",
-    "stargazers_count": 3039,
+    "stargazers_count": 3042,
     "open_issues_count": 0,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "kjaymiller/hbcu-list",
