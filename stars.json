@@ -1,15 +1,15 @@
 [
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "davidteather/TikTok-Api",
-    "stargazers_count": 1399,
-    "open_issues_count": 67,
-    "forks_count": 388
+    "stargazers_count": 1403,
+    "open_issues_count": 68,
+    "forks_count": 390
   },
   {
     "full_name": "blackgirlbytes/git-emojis",
@@ -19,27 +19,27 @@
   },
   {
     "full_name": "Shopify/polaris-react",
-    "stargazers_count": 4257,
-    "open_issues_count": 308,
-    "forks_count": 826
+    "stargazers_count": 4258,
+    "open_issues_count": 305,
+    "forks_count": 827
   },
   {
     "full_name": "hay-kot/mealie",
-    "stargazers_count": 902,
+    "stargazers_count": 908,
     "open_issues_count": 46,
     "forks_count": 101
   },
   {
     "full_name": "slinkity/slinkity",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 8,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "cloudflare/durable-objects-template",
     "stargazers_count": 13,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "open-sauced/check-engines",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 488,
-    "open_issues_count": 27,
-    "forks_count": 55
+    "stargazers_count": 490,
+    "open_issues_count": 29,
+    "forks_count": 56
   },
   {
     "full_name": "open-sauced/semantic-release-conventional-config",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 6975,
+    "stargazers_count": 6984,
     "open_issues_count": 31,
     "forks_count": 195
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "altair-graphql/altair",
-    "stargazers_count": 3642,
+    "stargazers_count": 3647,
     "open_issues_count": 41,
     "forks_count": 153
   },
@@ -122,12 +122,12 @@
   {
     "full_name": "kkemple/apollo-graphql-stream-scenes",
     "stargazers_count": 19,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "subeeshvasu/Awesome-Deblurring",
-    "stargazers_count": 1040,
+    "stargazers_count": 1042,
     "open_issues_count": 0,
     "forks_count": 198
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 682,
+    "stargazers_count": 681,
     "open_issues_count": 30,
     "forks_count": 146
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 6942,
-    "open_issues_count": 205,
-    "forks_count": 283
+    "stargazers_count": 6955,
+    "open_issues_count": 208,
+    "forks_count": 285
   },
   {
     "full_name": "reactwg/react-18",
-    "stargazers_count": 3057,
+    "stargazers_count": 3069,
     "open_issues_count": 0,
     "forks_count": 59
   }
