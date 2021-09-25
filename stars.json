@@ -1,20 +1,20 @@
 [
   {
     "full_name": "krisk/Fuse",
-    "stargazers_count": 13059,
+    "stargazers_count": 13064,
     "open_issues_count": 12,
     "forks_count": 676
   },
   {
     "full_name": "carloscuesta/gitmoji",
-    "stargazers_count": 10446,
+    "stargazers_count": 10457,
     "open_issues_count": 19,
     "forks_count": 605
   },
   {
     "full_name": "davidteather/TikTok-Api",
-    "stargazers_count": 1423,
-    "open_issues_count": 68,
+    "stargazers_count": 1425,
+    "open_issues_count": 69,
     "forks_count": 394
   },
   {
@@ -25,19 +25,19 @@
   },
   {
     "full_name": "Shopify/polaris-react",
-    "stargazers_count": 4261,
-    "open_issues_count": 309,
-    "forks_count": 828
+    "stargazers_count": 4265,
+    "open_issues_count": 311,
+    "forks_count": 830
   },
   {
     "full_name": "hay-kot/mealie",
-    "stargazers_count": 913,
+    "stargazers_count": 917,
     "open_issues_count": 48,
     "forks_count": 102
   },
   {
     "full_name": "slinkity/slinkity",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 8,
     "forks_count": 6
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 493,
+    "stargazers_count": 496,
     "open_issues_count": 29,
-    "forks_count": 56
+    "forks_count": 57
   },
   {
     "full_name": "open-sauced/semantic-release-conventional-config",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 7006,
-    "open_issues_count": 32,
-    "forks_count": 195
+    "stargazers_count": 7014,
+    "open_issues_count": 33,
+    "forks_count": 194
   },
   {
     "full_name": "muxinc/stream.new",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "octokit/rest.js",
-    "stargazers_count": 112,
+    "stargazers_count": 113,
     "open_issues_count": 19,
     "forks_count": 11
   },
   {
     "full_name": "altair-graphql/altair",
-    "stargazers_count": 3659,
-    "open_issues_count": 45,
-    "forks_count": 153
+    "stargazers_count": 3662,
+    "open_issues_count": 46,
+    "forks_count": 154
   },
   {
     "full_name": "zernonia/supabase-realtime-nextconf-clone",
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "subeeshvasu/Awesome-Deblurring",
-    "stargazers_count": 1044,
+    "stargazers_count": 1045,
     "open_issues_count": 0,
     "forks_count": 197
   },
   {
     "full_name": "doczjs/docz",
-    "stargazers_count": 21718,
+    "stargazers_count": 21727,
     "open_issues_count": 89,
-    "forks_count": 1360
+    "forks_count": 1362
   },
   {
     "full_name": "dabit3/supabase-next.js",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 682,
+    "stargazers_count": 684,
     "open_issues_count": 31,
     "forks_count": 146
   },
@@ -165,7 +165,7 @@
     "full_name": "mscoutermarsh/mscoutermarsh",
     "stargazers_count": 196,
     "open_issues_count": 4,
-    "forks_count": 27
+    "forks_count": 26
   },
   {
     "full_name": "Mariatta/github-app-tutorial",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 7123,
-    "open_issues_count": 201,
-    "forks_count": 291
+    "stargazers_count": 7335,
+    "open_issues_count": 197,
+    "forks_count": 293
   }
 ]
