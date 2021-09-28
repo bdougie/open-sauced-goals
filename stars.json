@@ -1,44 +1,56 @@
 [
   {
+    "full_name": "mtfoley/gh-user-search",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "alex-page/github-project-automation-plus",
+    "stargazers_count": 182,
+    "open_issues_count": 7,
+    "forks_count": 61
+  },
+  {
     "full_name": "krisk/Fuse",
-    "stargazers_count": 13064,
-    "open_issues_count": 12,
+    "stargazers_count": 13079,
+    "open_issues_count": 13,
     "forks_count": 676
   },
   {
     "full_name": "carloscuesta/gitmoji",
-    "stargazers_count": 10457,
+    "stargazers_count": 10468,
     "open_issues_count": 19,
     "forks_count": 605
   },
   {
     "full_name": "davidteather/TikTok-Api",
-    "stargazers_count": 1425,
+    "stargazers_count": 1434,
     "open_issues_count": 69,
-    "forks_count": 394
+    "forks_count": 397
   },
   {
     "full_name": "blackgirlbytes/git-emojis",
     "stargazers_count": 4,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "Shopify/polaris-react",
-    "stargazers_count": 4265,
-    "open_issues_count": 311,
-    "forks_count": 830
+    "stargazers_count": 4270,
+    "open_issues_count": 313,
+    "forks_count": 832
   },
   {
     "full_name": "hay-kot/mealie",
-    "stargazers_count": 917,
-    "open_issues_count": 48,
-    "forks_count": 102
+    "stargazers_count": 924,
+    "open_issues_count": 47,
+    "forks_count": 103
   },
   {
     "full_name": "slinkity/slinkity",
-    "stargazers_count": 61,
-    "open_issues_count": 8,
+    "stargazers_count": 63,
+    "open_issues_count": 9,
     "forks_count": 6
   },
   {
@@ -55,7 +67,7 @@
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 496,
+    "stargazers_count": 498,
     "open_issues_count": 29,
     "forks_count": 57
   },
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 7014,
-    "open_issues_count": 33,
-    "forks_count": 194
+    "stargazers_count": 7040,
+    "open_issues_count": 34,
+    "forks_count": 195
   },
   {
     "full_name": "muxinc/stream.new",
@@ -85,9 +97,9 @@
   },
   {
     "full_name": "BattlesnakeOfficial/starter-snake-javascript",
-    "stargazers_count": 16,
+    "stargazers_count": 18,
     "open_issues_count": 1,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "hughrawlinson/battlesnake",
@@ -97,25 +109,25 @@
   },
   {
     "full_name": "cloudflare/doom-wasm",
-    "stargazers_count": 113,
+    "stargazers_count": 114,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "octokit/rest.js",
-    "stargazers_count": 113,
+    "stargazers_count": 115,
     "open_issues_count": 19,
     "forks_count": 11
   },
   {
     "full_name": "altair-graphql/altair",
-    "stargazers_count": 3662,
-    "open_issues_count": 46,
+    "stargazers_count": 3673,
+    "open_issues_count": 47,
     "forks_count": 154
   },
   {
     "full_name": "zernonia/supabase-realtime-nextconf-clone",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -133,21 +145,21 @@
   },
   {
     "full_name": "subeeshvasu/Awesome-Deblurring",
-    "stargazers_count": 1045,
+    "stargazers_count": 1048,
     "open_issues_count": 0,
     "forks_count": 197
   },
   {
     "full_name": "doczjs/docz",
-    "stargazers_count": 21727,
-    "open_issues_count": 89,
-    "forks_count": 1362
+    "stargazers_count": 21748,
+    "open_issues_count": 91,
+    "forks_count": 1363
   },
   {
     "full_name": "dabit3/supabase-next.js",
-    "stargazers_count": 72,
+    "stargazers_count": 75,
     "open_issues_count": 1,
-    "forks_count": 13
+    "forks_count": 15
   },
   {
     "full_name": "jossef/action-set-json-field",
@@ -159,24 +171,12 @@
     "full_name": "ad-m/github-push-action",
     "stargazers_count": 684,
     "open_issues_count": 31,
-    "forks_count": 146
+    "forks_count": 147
   },
   {
     "full_name": "mscoutermarsh/mscoutermarsh",
     "stargazers_count": 196,
     "open_issues_count": 4,
     "forks_count": 26
-  },
-  {
-    "full_name": "Mariatta/github-app-tutorial",
-    "stargazers_count": 11,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "snowpackjs/astro",
-    "stargazers_count": 7335,
-    "open_issues_count": 197,
-    "forks_count": 293
   }
 ]
