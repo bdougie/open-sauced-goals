@@ -1,9 +1,9 @@
 [
   {
     "full_name": "mtfoley/gh-user-search",
-    "stargazers_count": 1,
+    "stargazers_count": 4,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "alex-page/github-project-automation-plus",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "krisk/Fuse",
-    "stargazers_count": 13079,
+    "stargazers_count": 13085,
     "open_issues_count": 13,
     "forks_count": 676
   },
   {
     "full_name": "carloscuesta/gitmoji",
-    "stargazers_count": 10468,
+    "stargazers_count": 10473,
     "open_issues_count": 19,
     "forks_count": 605
   },
@@ -32,24 +32,24 @@
   {
     "full_name": "blackgirlbytes/git-emojis",
     "stargazers_count": 4,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 0
   },
   {
     "full_name": "Shopify/polaris-react",
-    "stargazers_count": 4270,
-    "open_issues_count": 313,
-    "forks_count": 832
+    "stargazers_count": 4272,
+    "open_issues_count": 314,
+    "forks_count": 833
   },
   {
     "full_name": "hay-kot/mealie",
-    "stargazers_count": 924,
-    "open_issues_count": 47,
-    "forks_count": 103
+    "stargazers_count": 925,
+    "open_issues_count": 48,
+    "forks_count": 104
   },
   {
     "full_name": "slinkity/slinkity",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 9,
     "forks_count": 6
   },
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 498,
-    "open_issues_count": 29,
+    "stargazers_count": 499,
+    "open_issues_count": 31,
     "forks_count": 57
   },
   {
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 7040,
+    "stargazers_count": 7053,
     "open_issues_count": 34,
     "forks_count": 195
   },
   {
     "full_name": "muxinc/stream.new",
-    "stargazers_count": 196,
-    "open_issues_count": 9,
-    "forks_count": 23
+    "stargazers_count": 228,
+    "open_issues_count": 10,
+    "forks_count": 24
   },
   {
     "full_name": "questdb/questdb-open-sauced",
@@ -116,14 +116,14 @@
   {
     "full_name": "octokit/rest.js",
     "stargazers_count": 115,
-    "open_issues_count": 19,
-    "forks_count": 11
+    "open_issues_count": 20,
+    "forks_count": 12
   },
   {
     "full_name": "altair-graphql/altair",
-    "stargazers_count": 3673,
-    "open_issues_count": 47,
-    "forks_count": 154
+    "stargazers_count": 3676,
+    "open_issues_count": 50,
+    "forks_count": 155
   },
   {
     "full_name": "zernonia/supabase-realtime-nextconf-clone",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "subeeshvasu/Awesome-Deblurring",
-    "stargazers_count": 1048,
+    "stargazers_count": 1050,
     "open_issues_count": 0,
     "forks_count": 197
   },
   {
     "full_name": "doczjs/docz",
-    "stargazers_count": 21748,
+    "stargazers_count": 21753,
     "open_issues_count": 91,
-    "forks_count": 1363
+    "forks_count": 1365
   },
   {
     "full_name": "dabit3/supabase-next.js",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 684,
+    "stargazers_count": 685,
     "open_issues_count": 31,
-    "forks_count": 147
+    "forks_count": 146
   },
   {
     "full_name": "mscoutermarsh/mscoutermarsh",
