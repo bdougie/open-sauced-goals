@@ -1,9 +1,9 @@
 [
   {
     "full_name": "cheat/cheat",
-    "stargazers_count": 8089,
-    "open_issues_count": 39,
-    "forks_count": 701
+    "stargazers_count": 8103,
+    "open_issues_count": 40,
+    "forks_count": 703
   },
   {
     "full_name": "mtfoley/gh-user-search",
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "krisk/Fuse",
-    "stargazers_count": 13101,
+    "stargazers_count": 13106,
     "open_issues_count": 12,
-    "forks_count": 677
+    "forks_count": 678
   },
   {
     "full_name": "carloscuesta/gitmoji",
-    "stargazers_count": 10487,
+    "stargazers_count": 10502,
     "open_issues_count": 19,
-    "forks_count": 604
+    "forks_count": 605
   },
   {
     "full_name": "davidteather/TikTok-Api",
-    "stargazers_count": 1445,
-    "open_issues_count": 69,
-    "forks_count": 398
+    "stargazers_count": 1449,
+    "open_issues_count": 72,
+    "forks_count": 401
   },
   {
     "full_name": "blackgirlbytes/git-emojis",
@@ -43,20 +43,20 @@
   },
   {
     "full_name": "Shopify/polaris-react",
-    "stargazers_count": 4281,
-    "open_issues_count": 312,
-    "forks_count": 835
+    "stargazers_count": 4289,
+    "open_issues_count": 311,
+    "forks_count": 836
   },
   {
     "full_name": "hay-kot/mealie",
-    "stargazers_count": 934,
-    "open_issues_count": 50,
-    "forks_count": 105
+    "stargazers_count": 939,
+    "open_issues_count": 46,
+    "forks_count": 106
   },
   {
     "full_name": "slinkity/slinkity",
-    "stargazers_count": 66,
-    "open_issues_count": 8,
+    "stargazers_count": 69,
+    "open_issues_count": 9,
     "forks_count": 7
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 505,
+    "stargazers_count": 509,
     "open_issues_count": 31,
     "forks_count": 59
   },
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 7083,
-    "open_issues_count": 34,
+    "stargazers_count": 7100,
+    "open_issues_count": 35,
     "forks_count": 195
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "BattlesnakeOfficial/starter-snake-javascript",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 1,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "hughrawlinson/battlesnake",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "octokit/rest.js",
-    "stargazers_count": 116,
+    "stargazers_count": 117,
     "open_issues_count": 19,
-    "forks_count": 11
+    "forks_count": 13
   },
   {
     "full_name": "altair-graphql/altair",
-    "stargazers_count": 3683,
-    "open_issues_count": 50,
-    "forks_count": 156
+    "stargazers_count": 3690,
+    "open_issues_count": 51,
+    "forks_count": 157
   },
   {
     "full_name": "zernonia/supabase-realtime-nextconf-clone",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "doczjs/docz",
-    "stargazers_count": 21766,
-    "open_issues_count": 91,
-    "forks_count": 1367
+    "stargazers_count": 21771,
+    "open_issues_count": 92,
+    "forks_count": 1368
   },
   {
     "full_name": "dabit3/supabase-next.js",
