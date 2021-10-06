@@ -1,7 +1,7 @@
 [
   {
     "full_name": "cheat/cheat",
-    "stargazers_count": 8103,
+    "stargazers_count": 8112,
     "open_issues_count": 40,
     "forks_count": 703
   },
@@ -19,19 +19,19 @@
   },
   {
     "full_name": "krisk/Fuse",
-    "stargazers_count": 13106,
+    "stargazers_count": 13108,
     "open_issues_count": 12,
-    "forks_count": 678
+    "forks_count": 679
   },
   {
     "full_name": "carloscuesta/gitmoji",
-    "stargazers_count": 10502,
+    "stargazers_count": 10507,
     "open_issues_count": 19,
     "forks_count": 605
   },
   {
     "full_name": "davidteather/TikTok-Api",
-    "stargazers_count": 1449,
+    "stargazers_count": 1452,
     "open_issues_count": 72,
     "forks_count": 401
   },
@@ -45,11 +45,11 @@
     "full_name": "Shopify/polaris-react",
     "stargazers_count": 4289,
     "open_issues_count": 311,
-    "forks_count": 836
+    "forks_count": 835
   },
   {
     "full_name": "hay-kot/mealie",
-    "stargazers_count": 939,
+    "stargazers_count": 940,
     "open_issues_count": 46,
     "forks_count": 106
   },
@@ -57,7 +57,7 @@
     "full_name": "slinkity/slinkity",
     "stargazers_count": 69,
     "open_issues_count": 9,
-    "forks_count": 7
+    "forks_count": 6
   },
   {
     "full_name": "cloudflare/durable-objects-template",
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 509,
-    "open_issues_count": 31,
+    "stargazers_count": 512,
+    "open_issues_count": 33,
     "forks_count": 59
   },
   {
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 7100,
-    "open_issues_count": 35,
-    "forks_count": 195
+    "stargazers_count": 7120,
+    "open_issues_count": 36,
+    "forks_count": 196
   },
   {
     "full_name": "muxinc/stream.new",
@@ -121,14 +121,14 @@
   },
   {
     "full_name": "octokit/rest.js",
-    "stargazers_count": 117,
+    "stargazers_count": 119,
     "open_issues_count": 19,
     "forks_count": 13
   },
   {
     "full_name": "altair-graphql/altair",
-    "stargazers_count": 3690,
-    "open_issues_count": 51,
+    "stargazers_count": 3691,
+    "open_issues_count": 52,
     "forks_count": 157
   },
   {
@@ -151,14 +151,14 @@
   },
   {
     "full_name": "subeeshvasu/Awesome-Deblurring",
-    "stargazers_count": 1051,
+    "stargazers_count": 1052,
     "open_issues_count": 0,
     "forks_count": 198
   },
   {
     "full_name": "doczjs/docz",
-    "stargazers_count": 21771,
-    "open_issues_count": 92,
+    "stargazers_count": 21776,
+    "open_issues_count": 91,
     "forks_count": 1368
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "ad-m/github-push-action",
-    "stargazers_count": 686,
+    "stargazers_count": 687,
     "open_issues_count": 31,
-    "forks_count": 148
+    "forks_count": 149
   }
 ]
