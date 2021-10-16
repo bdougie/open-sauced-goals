@@ -2,12 +2,12 @@
   {
     "full_name": "mtfoley/pr-compliance-action",
     "stargazers_count": 7,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "forks_count": 1
   },
   {
     "full_name": "cloudflare/doom-wasm",
-    "stargazers_count": 117,
+    "stargazers_count": 118,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 82310,
-    "open_issues_count": 1548,
-    "forks_count": 21531
+    "stargazers_count": 82332,
+    "open_issues_count": 1553,
+    "forks_count": 21544
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 25807,
-    "open_issues_count": 399,
-    "forks_count": 2875
+    "stargazers_count": 25819,
+    "open_issues_count": 402,
+    "forks_count": 2878
   },
   {
     "full_name": "OneGraph/onegraph-client",
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1356,
+    "stargazers_count": 1357,
     "open_issues_count": 55,
-    "forks_count": 204
+    "forks_count": 205
   }
 ]
