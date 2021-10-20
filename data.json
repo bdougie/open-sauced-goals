@@ -50,14 +50,14 @@
   {
     "full_name": "nodejs/node",
     "stargazers_count": 82417,
-    "open_issues_count": 1566,
+    "open_issues_count": 1565,
     "forks_count": 21564
   },
   {
     "full_name": "cli/cli",
     "stargazers_count": 25872,
     "open_issues_count": 402,
-    "forks_count": 2889
+    "forks_count": 2890
   },
   {
     "full_name": "OneGraph/onegraph-client",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1363,
+    "stargazers_count": 1364,
     "open_issues_count": 56,
     "forks_count": 208
   }
