@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "lydiahallie/javascript-questions",
+    "stargazers_count": 39070,
+    "open_issues_count": 66,
+    "forks_count": 5266
+  },
+  {
     "full_name": "nathanchapman/mayonnaise.js",
     "stargazers_count": 65,
     "open_issues_count": 0,
@@ -7,13 +13,13 @@
   },
   {
     "full_name": "danger/danger",
-    "stargazers_count": 4649,
+    "stargazers_count": 4651,
     "open_issues_count": 147,
-    "forks_count": 426
+    "forks_count": 427
   },
   {
     "full_name": "Borrus-sudo/Zeus",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -38,12 +44,12 @@
   {
     "full_name": "mtfoley/pr-compliance-action",
     "stargazers_count": 12,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 1
   },
   {
     "full_name": "cheat/cheat",
-    "stargazers_count": 8206,
+    "stargazers_count": 8221,
     "open_issues_count": 36,
     "forks_count": 708
   },
@@ -55,27 +61,27 @@
   },
   {
     "full_name": "alex-page/github-project-automation-plus",
-    "stargazers_count": 194,
-    "open_issues_count": 7,
+    "stargazers_count": 195,
+    "open_issues_count": 8,
     "forks_count": 61
   },
   {
     "full_name": "krisk/Fuse",
-    "stargazers_count": 13238,
-    "open_issues_count": 13,
+    "stargazers_count": 13253,
+    "open_issues_count": 12,
     "forks_count": 685
   },
   {
     "full_name": "carloscuesta/gitmoji",
-    "stargazers_count": 10725,
+    "stargazers_count": 10741,
     "open_issues_count": 16,
-    "forks_count": 615
+    "forks_count": 616
   },
   {
     "full_name": "davidteather/TikTok-Api",
-    "stargazers_count": 1536,
+    "stargazers_count": 1545,
     "open_issues_count": 82,
-    "forks_count": 416
+    "forks_count": 418
   },
   {
     "full_name": "blackgirlbytes/git-emojis",
@@ -85,56 +91,56 @@
   },
   {
     "full_name": "Shopify/polaris-react",
-    "stargazers_count": 4329,
-    "open_issues_count": 345,
+    "stargazers_count": 4332,
+    "open_issues_count": 348,
     "forks_count": 857
   },
   {
     "full_name": "hay-kot/mealie",
-    "stargazers_count": 1020,
-    "open_issues_count": 45,
+    "stargazers_count": 1026,
+    "open_issues_count": 44,
     "forks_count": 120
   },
   {
     "full_name": "slinkity/slinkity",
-    "stargazers_count": 121,
+    "stargazers_count": 124,
     "open_issues_count": 12,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "cloudflare/durable-objects-template",
     "stargazers_count": 13,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 12
   },
   {
     "full_name": "open-sauced/check-engines",
     "stargazers_count": 3,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 573,
-    "open_issues_count": 34,
-    "forks_count": 64
+    "stargazers_count": 582,
+    "open_issues_count": 33,
+    "forks_count": 65
   },
   {
     "full_name": "open-sauced/semantic-release-conventional-config",
     "stargazers_count": 5,
-    "open_issues_count": 3,
+    "open_issues_count": 5,
     "forks_count": 0
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 7491,
-    "open_issues_count": 41,
+    "stargazers_count": 7511,
+    "open_issues_count": 42,
     "forks_count": 207
   },
   {
     "full_name": "muxinc/stream.new",
     "stargazers_count": 268,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 25
   },
   {
@@ -159,24 +165,18 @@
     "full_name": "cloudflare/doom-wasm",
     "stargazers_count": 122,
     "open_issues_count": 1,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "octokit/rest.js",
-    "stargazers_count": 137,
+    "stargazers_count": 141,
     "open_issues_count": 19,
     "forks_count": 12
   },
   {
     "full_name": "altair-graphql/altair",
-    "stargazers_count": 3749,
+    "stargazers_count": 3754,
     "open_issues_count": 39,
-    "forks_count": 162
-  },
-  {
-    "full_name": "zernonia/supabase-realtime-nextconf-clone",
-    "stargazers_count": 27,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 163
   }
 ]
