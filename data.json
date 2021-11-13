@@ -1,7 +1,7 @@
 [
   {
     "full_name": "mattdsteele/dominos-action",
-    "stargazers_count": 20,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "Team-TAU/tau",
-    "stargazers_count": 66,
+    "stargazers_count": 68,
     "open_issues_count": 13,
     "forks_count": 20
   },
   {
     "full_name": "dotansimha/envelop",
     "stargazers_count": 385,
-    "open_issues_count": 38,
+    "open_issues_count": 41,
     "forks_count": 32
   },
   {
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 82973,
-    "open_issues_count": 1613,
-    "forks_count": 21778
+    "stargazers_count": 82985,
+    "open_issues_count": 1607,
+    "forks_count": 21792
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 26172,
-    "open_issues_count": 432,
-    "forks_count": 2995
+    "stargazers_count": 26184,
+    "open_issues_count": 436,
+    "forks_count": 2996
   },
   {
     "full_name": "OneGraph/onegraph-client",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1424,
+    "stargazers_count": 1425,
     "open_issues_count": 87,
     "forks_count": 213
   }
