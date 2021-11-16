@@ -7,7 +7,7 @@
   },
   {
     "full_name": "mtfoley/pr-compliance-action",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 7,
     "forks_count": 1
   },
@@ -18,8 +18,8 @@
     "forks_count": 9
   },
   {
-    "full_name": "zernonia/supabase-realtime-nextconf-clone",
-    "stargazers_count": 27,
+    "full_name": "zernonia/supabase-realtime-playground",
+    "stargazers_count": 28,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -32,7 +32,7 @@
   {
     "full_name": "dotansimha/envelop",
     "stargazers_count": 385,
-    "open_issues_count": 41,
+    "open_issues_count": 44,
     "forks_count": 32
   },
   {
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 82985,
-    "open_issues_count": 1607,
-    "forks_count": 21792
+    "stargazers_count": 83030,
+    "open_issues_count": 1611,
+    "forks_count": 21827
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 26184,
-    "open_issues_count": 436,
-    "forks_count": 2996
+    "stargazers_count": 26212,
+    "open_issues_count": 439,
+    "forks_count": 3008
   },
   {
     "full_name": "OneGraph/onegraph-client",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1425,
-    "open_issues_count": 87,
+    "stargazers_count": 1432,
+    "open_issues_count": 86,
     "forks_count": 213
   }
 ]

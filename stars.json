@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "jshemas/openGraphScraper",
+    "stargazers_count": 322,
+    "open_issues_count": 0,
+    "forks_count": 70
+  },
+  {
+    "full_name": "daily-demos/party-line",
+    "stargazers_count": 39,
+    "open_issues_count": 2,
+    "forks_count": 11
+  },
+  {
     "full_name": "utterance/utterances",
-    "stargazers_count": 5558,
-    "open_issues_count": 99,
-    "forks_count": 476
+    "stargazers_count": 5579,
+    "open_issues_count": 100,
+    "forks_count": 477
   },
   {
     "full_name": "samholmes/node-open-graph",
@@ -13,9 +25,9 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 39129,
+    "stargazers_count": 39174,
     "open_issues_count": 66,
-    "forks_count": 5284
+    "forks_count": 5296
   },
   {
     "full_name": "nathanchapman/mayonnaise.js",
@@ -25,13 +37,13 @@
   },
   {
     "full_name": "danger/danger",
-    "stargazers_count": 4659,
+    "stargazers_count": 4663,
     "open_issues_count": 146,
     "forks_count": 427
   },
   {
     "full_name": "Borrus-sudo/Zeus",
-    "stargazers_count": 24,
+    "stargazers_count": 67,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -55,13 +67,13 @@
   },
   {
     "full_name": "mtfoley/pr-compliance-action",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 7,
     "forks_count": 1
   },
   {
     "full_name": "cheat/cheat",
-    "stargazers_count": 8234,
+    "stargazers_count": 8240,
     "open_issues_count": 36,
     "forks_count": 708
   },
@@ -73,26 +85,26 @@
   },
   {
     "full_name": "alex-page/github-project-automation-plus",
-    "stargazers_count": 195,
+    "stargazers_count": 196,
     "open_issues_count": 8,
-    "forks_count": 63
+    "forks_count": 64
   },
   {
     "full_name": "krisk/Fuse",
-    "stargazers_count": 13274,
-    "open_issues_count": 10,
+    "stargazers_count": 13285,
+    "open_issues_count": 11,
     "forks_count": 687
   },
   {
     "full_name": "carloscuesta/gitmoji",
-    "stargazers_count": 10773,
-    "open_issues_count": 17,
-    "forks_count": 618
+    "stargazers_count": 10782,
+    "open_issues_count": 16,
+    "forks_count": 617
   },
   {
     "full_name": "davidteather/TikTok-Api",
-    "stargazers_count": 1550,
-    "open_issues_count": 83,
+    "stargazers_count": 1554,
+    "open_issues_count": 82,
     "forks_count": 423
   },
   {
@@ -103,27 +115,27 @@
   },
   {
     "full_name": "Shopify/polaris-react",
-    "stargazers_count": 4340,
-    "open_issues_count": 380,
-    "forks_count": 855
+    "stargazers_count": 4346,
+    "open_issues_count": 378,
+    "forks_count": 857
   },
   {
     "full_name": "hay-kot/mealie",
-    "stargazers_count": 1032,
-    "open_issues_count": 43,
-    "forks_count": 121
+    "stargazers_count": 1049,
+    "open_issues_count": 47,
+    "forks_count": 122
   },
   {
     "full_name": "slinkity/slinkity",
-    "stargazers_count": 130,
-    "open_issues_count": 13,
-    "forks_count": 9
+    "stargazers_count": 133,
+    "open_issues_count": 12,
+    "forks_count": 10
   },
   {
     "full_name": "cloudflare/durable-objects-template",
     "stargazers_count": 13,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "open-sauced/check-engines",
@@ -133,9 +145,9 @@
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 593,
+    "stargazers_count": 597,
     "open_issues_count": 34,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "open-sauced/semantic-release-conventional-config",
@@ -145,15 +157,15 @@
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 7547,
+    "stargazers_count": 7572,
     "open_issues_count": 43,
-    "forks_count": 212
+    "forks_count": 217
   },
   {
     "full_name": "muxinc/stream.new",
-    "stargazers_count": 268,
+    "stargazers_count": 270,
     "open_issues_count": 12,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "questdb/questdb-open-sauced",
@@ -166,17 +178,5 @@
     "stargazers_count": 19,
     "open_issues_count": 1,
     "forks_count": 95
-  },
-  {
-    "full_name": "hughrawlinson/battlesnake",
-    "stargazers_count": 4,
-    "open_issues_count": 6,
-    "forks_count": 0
-  },
-  {
-    "full_name": "cloudflare/doom-wasm",
-    "stargazers_count": 121,
-    "open_issues_count": 1,
-    "forks_count": 9
   }
 ]
