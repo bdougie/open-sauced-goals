@@ -8,7 +8,7 @@
   {
     "full_name": "mtfoley/pr-compliance-action",
     "stargazers_count": 13,
-    "open_issues_count": 2,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
@@ -27,13 +27,13 @@
     "full_name": "Team-TAU/tau",
     "stargazers_count": 70,
     "open_issues_count": 13,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 389,
-    "open_issues_count": 39,
-    "forks_count": 33
+    "stargazers_count": 395,
+    "open_issues_count": 37,
+    "forks_count": 34
   },
   {
     "full_name": "gr2m/boop-gregors-nose-test",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 83270,
-    "open_issues_count": 1587,
-    "forks_count": 21932
+    "stargazers_count": 83340,
+    "open_issues_count": 1591,
+    "forks_count": 21961
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 26330,
-    "open_issues_count": 421,
-    "forks_count": 3046
+    "stargazers_count": 26380,
+    "open_issues_count": 416,
+    "forks_count": 3059
   },
   {
     "full_name": "OneGraph/onegraph-client",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1447,
-    "open_issues_count": 61,
+    "stargazers_count": 1460,
+    "open_issues_count": 64,
     "forks_count": 219
   }
 ]
