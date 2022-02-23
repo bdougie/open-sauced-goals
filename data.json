@@ -7,15 +7,15 @@
   },
   {
     "full_name": "mtfoley/pr-compliance-action",
-    "stargazers_count": 120,
-    "open_issues_count": 5,
+    "stargazers_count": 121,
+    "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "cloudflare/doom-wasm",
-    "stargazers_count": 129,
+    "stargazers_count": 131,
     "open_issues_count": 1,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "zernonia/supabase-realtime-playground",
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "Team-TAU/tau",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 13,
     "forks_count": 23
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 459,
-    "open_issues_count": 59,
+    "stargazers_count": 462,
+    "open_issues_count": 61,
     "forks_count": 42
   },
   {
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 85616,
-    "open_issues_count": 1627,
-    "forks_count": 22788
+    "stargazers_count": 85705,
+    "open_issues_count": 1618,
+    "forks_count": 22833
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 27279,
-    "open_issues_count": 375,
-    "forks_count": 3363
+    "stargazers_count": 27348,
+    "open_issues_count": 369,
+    "forks_count": 3379
   },
   {
     "full_name": "OneGraph/onegraph-client",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1581,
-    "open_issues_count": 59,
-    "forks_count": 245
+    "stargazers_count": 1583,
+    "open_issues_count": 57,
+    "forks_count": 246
   }
 ]
