@@ -19,9 +19,9 @@
   },
   {
     "full_name": "jshemas/openGraphScraper",
-    "stargazers_count": 350,
+    "stargazers_count": 351,
     "open_issues_count": 1,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "daily-demos/party-line",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "utterance/utterances",
-    "stargazers_count": 6190,
-    "open_issues_count": 116,
-    "forks_count": 500
+    "stargazers_count": 6209,
+    "open_issues_count": 117,
+    "forks_count": 502
   },
   {
     "full_name": "samholmes/node-open-graph",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 42152,
+    "stargazers_count": 42196,
     "open_issues_count": 79,
-    "forks_count": 5896
+    "forks_count": 5906
   },
   {
     "full_name": "nathanchapman/mayonnaise.js",
@@ -55,14 +55,14 @@
   },
   {
     "full_name": "danger/danger",
-    "stargazers_count": 4766,
+    "stargazers_count": 4770,
     "open_issues_count": 151,
     "forks_count": 439
   },
   {
     "full_name": "Borrus-sudo/Zeus",
-    "stargazers_count": 78,
-    "open_issues_count": 0,
+    "stargazers_count": 79,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "cheat/cheat",
-    "stargazers_count": 8988,
-    "open_issues_count": 38,
-    "forks_count": 723
+    "stargazers_count": 8994,
+    "open_issues_count": 40,
+    "forks_count": 725
   },
   {
     "full_name": "mtfoley/gh-user-search",
@@ -105,25 +105,25 @@
     "full_name": "alex-page/github-project-automation-plus",
     "stargazers_count": 211,
     "open_issues_count": 11,
-    "forks_count": 73
+    "forks_count": 72
   },
   {
     "full_name": "krisk/Fuse",
-    "stargazers_count": 13859,
-    "open_issues_count": 14,
-    "forks_count": 711
+    "stargazers_count": 13870,
+    "open_issues_count": 15,
+    "forks_count": 712
   },
   {
     "full_name": "carloscuesta/gitmoji",
-    "stargazers_count": 11434,
+    "stargazers_count": 11449,
     "open_issues_count": 8,
     "forks_count": 645
   },
   {
     "full_name": "davidteather/TikTok-Api",
-    "stargazers_count": 1981,
-    "open_issues_count": 42,
-    "forks_count": 547
+    "stargazers_count": 1996,
+    "open_issues_count": 39,
+    "forks_count": 551
   },
   {
     "full_name": "blackgirlbytes/git-emojis",
@@ -133,25 +133,25 @@
   },
   {
     "full_name": "Shopify/polaris-react",
-    "stargazers_count": 4555,
-    "open_issues_count": 442,
+    "stargazers_count": 4560,
+    "open_issues_count": 441,
     "forks_count": 889
   },
   {
     "full_name": "hay-kot/mealie",
-    "stargazers_count": 1908,
-    "open_issues_count": 92,
-    "forks_count": 200
+    "stargazers_count": 1927,
+    "open_issues_count": 98,
+    "forks_count": 204
   },
   {
     "full_name": "slinkity/slinkity",
-    "stargazers_count": 273,
-    "open_issues_count": 15,
+    "stargazers_count": 277,
+    "open_issues_count": 16,
     "forks_count": 21
   },
   {
     "full_name": "cloudflare/durable-objects-template",
-    "stargazers_count": 16,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 19
   },
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "supabase/supabase-js",
-    "stargazers_count": 913,
-    "open_issues_count": 58,
+    "stargazers_count": 925,
+    "open_issues_count": 61,
     "forks_count": 95
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 8648,
+    "stargazers_count": 8677,
     "open_issues_count": 47,
     "forks_count": 268
   }
