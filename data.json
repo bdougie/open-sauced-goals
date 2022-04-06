@@ -7,13 +7,13 @@
   },
   {
     "full_name": "mtfoley/pr-compliance-action",
-    "stargazers_count": 122,
+    "stargazers_count": 123,
     "open_issues_count": 6,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "cloudflare/doom-wasm",
-    "stargazers_count": 138,
+    "stargazers_count": 147,
     "open_issues_count": 2,
     "forks_count": 16
   },
@@ -27,13 +27,13 @@
     "full_name": "Team-TAU/tau",
     "stargazers_count": 94,
     "open_issues_count": 12,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 488,
-    "open_issues_count": 71,
-    "forks_count": 44
+    "stargazers_count": 489,
+    "open_issues_count": 70,
+    "forks_count": 45
   },
   {
     "full_name": "gr2m/boop-gregors-nose-test",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 86633,
-    "open_issues_count": 1689,
-    "forks_count": 23194
+    "stargazers_count": 86658,
+    "open_issues_count": 1635,
+    "forks_count": 23224
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 27852,
-    "open_issues_count": 346,
-    "forks_count": 3532
+    "stargazers_count": 27966,
+    "open_issues_count": 353,
+    "forks_count": 3547
   },
   {
     "full_name": "OneGraph/onegraph-client",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1654,
-    "open_issues_count": 47,
+    "stargazers_count": 1656,
+    "open_issues_count": 49,
     "forks_count": 260
   }
 ]
