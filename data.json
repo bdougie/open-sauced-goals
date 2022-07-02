@@ -13,7 +13,7 @@
   },
   {
     "full_name": "cloudflare/doom-wasm",
-    "stargazers_count": 157,
+    "stargazers_count": 158,
     "open_issues_count": 3,
     "forks_count": 21
   },
@@ -31,8 +31,8 @@
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 543,
-    "open_issues_count": 76,
+    "stargazers_count": 550,
+    "open_issues_count": 77,
     "forks_count": 57
   },
   {
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 88461,
-    "open_issues_count": 1649,
-    "forks_count": 23713
+    "stargazers_count": 88528,
+    "open_issues_count": 1655,
+    "forks_count": 23731
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 29023,
-    "open_issues_count": 349,
-    "forks_count": 3854
+    "stargazers_count": 29049,
+    "open_issues_count": 351,
+    "forks_count": 3862
   },
   {
     "full_name": "OneGraph/onegraph-client",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1796,
+    "stargazers_count": 1798,
     "open_issues_count": 63,
-    "forks_count": 294
+    "forks_count": 292
   }
 ]
