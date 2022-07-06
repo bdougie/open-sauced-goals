@@ -8,7 +8,7 @@
   {
     "full_name": "mtfoley/pr-compliance-action",
     "stargazers_count": 129,
-    "open_issues_count": 4,
+    "open_issues_count": 8,
     "forks_count": 8
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 550,
-    "open_issues_count": 77,
+    "stargazers_count": 553,
+    "open_issues_count": 75,
     "forks_count": 57
   },
   {
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 88528,
-    "open_issues_count": 1655,
-    "forks_count": 23731
+    "stargazers_count": 88585,
+    "open_issues_count": 1662,
+    "forks_count": 23762
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 29049,
-    "open_issues_count": 351,
-    "forks_count": 3862
+    "stargazers_count": 29106,
+    "open_issues_count": 361,
+    "forks_count": 3877
   },
   {
     "full_name": "OneGraph/onegraph-client",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1798,
+    "stargazers_count": 1800,
     "open_issues_count": 63,
-    "forks_count": 292
+    "forks_count": 293
   }
 ]
