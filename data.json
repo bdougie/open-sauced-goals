@@ -31,7 +31,7 @@
   },
   {
     "full_name": "dotansimha/envelop",
-    "stargazers_count": 557,
+    "stargazers_count": 558,
     "open_issues_count": 71,
     "forks_count": 57
   },
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 88805,
-    "open_issues_count": 1654,
-    "forks_count": 23804
+    "stargazers_count": 88893,
+    "open_issues_count": 1651,
+    "forks_count": 23830
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 29212,
-    "open_issues_count": 368,
-    "forks_count": 3907
+    "stargazers_count": 29240,
+    "open_issues_count": 371,
+    "forks_count": 3915
   },
   {
     "full_name": "OneGraph/onegraph-client",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "primer/react",
-    "stargazers_count": 1821,
-    "open_issues_count": 67,
-    "forks_count": 299
+    "stargazers_count": 1824,
+    "open_issues_count": 70,
+    "forks_count": 301
   }
 ]
